@@ -1,8 +1,10 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Артём Юсупов](https://up.htmlacademy.ru/htmlcss/16/user/312659).
-* Наставник: [Виктория Коваленко] (https://htmlacademy.ru/profile/id42638)
+* Наставник:  [Виктория Коваленко]   (https://htmlacademy.ru/profile/id42638)
+
 _Не удаляйте и не обращайте внимание на файлы:_<br>
+
 _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
 ---
